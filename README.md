@@ -13,4 +13,6 @@ However, while the data has been regularly updated, the team has yet to implemen
 ## Task
 
 * My homework was completed in two separate stories. One story covered the Jersey City Bike Trip Histories. The other was based on Daily/Annual membership Ride Data.
-* I covered about 11 diffferent questions, to get a good feel for differen facets of the data. These range from gender and age, to distance and positioning, to memberhip and purchase data. Two maps were included on one of the story pages as well, so that a dashboard was integrated to one of the stories.# Tableau-Assignment---Citi-Bike-Analytics
+* I covered about 11 diffferent questions, to get a good feel for differen facets of the data. These range from gender and age, to distance and positioning, to memberhip and purchase data. Two maps were included on one of the story pages as well, so that a dashboard was integrated to one of the stories.
+
+# Tableau-Assignment---Citi-Bike-Analytics
